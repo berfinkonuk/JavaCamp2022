@@ -1,0 +1,15 @@
+C:\Users\berfi\OneDrive\Masaüstü\JavaCamp_Week3_hw1\YouTubeEğitim_VisualStudio\YouTubeEğitim_VisualStudio\bin\Debug\net6.0\YouTubeEğitim_VisualStudio.exe
+C:\Users\berfi\OneDrive\Masaüstü\JavaCamp_Week3_hw1\YouTubeEğitim_VisualStudio\YouTubeEğitim_VisualStudio\bin\Debug\net6.0\YouTubeEğitim_VisualStudio.deps.json
+C:\Users\berfi\OneDrive\Masaüstü\JavaCamp_Week3_hw1\YouTubeEğitim_VisualStudio\YouTubeEğitim_VisualStudio\bin\Debug\net6.0\YouTubeEğitim_VisualStudio.runtimeconfig.json
+C:\Users\berfi\OneDrive\Masaüstü\JavaCamp_Week3_hw1\YouTubeEğitim_VisualStudio\YouTubeEğitim_VisualStudio\bin\Debug\net6.0\YouTubeEğitim_VisualStudio.dll
+C:\Users\berfi\OneDrive\Masaüstü\JavaCamp_Week3_hw1\YouTubeEğitim_VisualStudio\YouTubeEğitim_VisualStudio\bin\Debug\net6.0\YouTubeEğitim_VisualStudio.pdb
+C:\Users\berfi\OneDrive\Masaüstü\JavaCamp_Week3_hw1\YouTubeEğitim_VisualStudio\YouTubeEğitim_VisualStudio\obj\Debug\net6.0\YouTubeEğitim_VisualStudio.csproj.AssemblyReference.cache
+C:\Users\berfi\OneDrive\Masaüstü\JavaCamp_Week3_hw1\YouTubeEğitim_VisualStudio\YouTubeEğitim_VisualStudio\obj\Debug\net6.0\YouTubeEğitim_VisualStudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berfi\OneDrive\Masaüstü\JavaCamp_Week3_hw1\YouTubeEğitim_VisualStudio\YouTubeEğitim_VisualStudio\obj\Debug\net6.0\YouTubeEğitim_VisualStudio.AssemblyInfoInputs.cache
+C:\Users\berfi\OneDrive\Masaüstü\JavaCamp_Week3_hw1\YouTubeEğitim_VisualStudio\YouTubeEğitim_VisualStudio\obj\Debug\net6.0\YouTubeEğitim_VisualStudio.AssemblyInfo.cs
+C:\Users\berfi\OneDrive\Masaüstü\JavaCamp_Week3_hw1\YouTubeEğitim_VisualStudio\YouTubeEğitim_VisualStudio\obj\Debug\net6.0\YouTubeEğitim_VisualStudio.csproj.CoreCompileInputs.cache
+C:\Users\berfi\OneDrive\Masaüstü\JavaCamp_Week3_hw1\YouTubeEğitim_VisualStudio\YouTubeEğitim_VisualStudio\obj\Debug\net6.0\YouTubeEğitim_VisualStudio.dll
+C:\Users\berfi\OneDrive\Masaüstü\JavaCamp_Week3_hw1\YouTubeEğitim_VisualStudio\YouTubeEğitim_VisualStudio\obj\Debug\net6.0\refint\YouTubeEğitim_VisualStudio.dll
+C:\Users\berfi\OneDrive\Masaüstü\JavaCamp_Week3_hw1\YouTubeEğitim_VisualStudio\YouTubeEğitim_VisualStudio\obj\Debug\net6.0\YouTubeEğitim_VisualStudio.pdb
+C:\Users\berfi\OneDrive\Masaüstü\JavaCamp_Week3_hw1\YouTubeEğitim_VisualStudio\YouTubeEğitim_VisualStudio\obj\Debug\net6.0\YouTubeEğitim_VisualStudio.genruntimeconfig.cache
+C:\Users\berfi\OneDrive\Masaüstü\JavaCamp_Week3_hw1\YouTubeEğitim_VisualStudio\YouTubeEğitim_VisualStudio\obj\Debug\net6.0\ref\YouTubeEğitim_VisualStudio.dll
